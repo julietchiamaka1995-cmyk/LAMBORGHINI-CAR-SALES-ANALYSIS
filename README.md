@@ -10,9 +10,11 @@ Performance by vehicle model (Urus, Huracán, Aventador, Revuelto, Huracꞻn Tem
 Regional revenue distribution (AMERICA, EMEA and APAC).
 Customer preferences by color Ranges from (Black,White,Orange, Yello, Red, Silver, Blue, Grey and Green).
 Fuel type segmentation (Gasoline and Hybrid).
-It provides both historical trends and current performance metrics, making it useful for strategic decision-making in luxury automotive sales.
+It provides both historical trends and current performance metrics, making it useful for strategic decision-making in luxury automotive sale
 
-![CARSALES](https://github.com/julietchiamaka1995-cmyk/LAMBORGHINI-CAR-SALES-ANALYSIS/blob/main/picture.png)
+##Dashboard Preview
+
+![CARSALES](https://github.com/julietchiamaka1995-cmyk/LAMBORGHINI-CAR-SALES-ANALYSIS/blob/main/CARSALES.png)
 
 PROBLEM STATEMENT
 There is a decline sales growth (24% decrease in volume, 9% decrease in revenue compared to last year), Lamborghini faces severe challenges in sales growth.
