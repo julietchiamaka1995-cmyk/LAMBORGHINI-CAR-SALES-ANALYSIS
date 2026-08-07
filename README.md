@@ -5,10 +5,10 @@ CAR SALES ANALYSIS DASHBOARD FINDINDS
 
 OVERVIEW
 This dataset captures Lamborghini’s global sales performance across multiple dimensions.
-Sales volume & revenue trends (2020–2025).
-Performance by vehicle model (Urus, Huracán, Aventador, Revuelto, Huracꞻn Temerario and Urus SE).
-Regional revenue distribution (AMERICA, EMEA and APAC).
-Customer preferences by color Ranges from (Black,White,Orange, Yello, Red, Silver, Blue, Grey and Green).
+Sales volume & revenue trends (2020–2025),
+Performance by vehicle model (Urus, Huracán, Aventador, Revuelto, Huracꞻn Temerario and Urus SE),
+Regional revenue distribution (AMERICA, EMEA and APAC),
+Customer preferences by colour Ranges from (Black,White,Orange, Yellow, Red, Silver, Blue, Grey and Green) and 
 Fuel type segmentation (Gasoline and Hybrid).
 It provides both historical trends and current performance metrics, making it useful for strategic decision-making in luxury automotive sale
 
@@ -17,13 +17,13 @@ It provides both historical trends and current performance metrics, making it us
 ![CARSALES](https://github.com/julietchiamaka1995-cmyk/LAMBORGHINI-CAR-SALES-ANALYSIS/blob/main/CARSALES.png)
 
 PROBLEM STATEMENT
-There is a decline sales growth (24% decrease in volume, 9% decrease in revenue compared to last year), Lamborghini faces severe challenges in sales growth.
-    Revenue volatility: Peaks in 2020 and 2024, but a decline in 2025.
-    Model dependency: Urus, Huracán and Uus SE dominate revenue, creating risk if demand shifts.
-    Regional imbalance: Americas lead revenue, but APAC lags behind despite being a high-growth luxury market.
-    Color skew: Black and white dominate sales, suggesting limited success in promoting diverse color options.
-In the luxury aumotive industry, qaulity sustained growth depends on divasification, be it product portfolio or regional penetration.
-Over reliance on few models or markets can expose the brand to economic downturns and change in customer taste.
+1.    There is a decline sales growth (24% decrease in volume, 9% decrease in revenue compared to last year), Lamborghini faces severe           challenges in sales growth.
+2.    Revenue volatility: Peaks in 2020 and 2024, but a decline in 2025.
+3.    Model dependency: Urus, Huracán and Uus SE dominate revenue, creating risk if demand shifts.
+4.    Regional imbalance: Americas lead revenue, but APAC lags behind despite being a high-growth luxury market.
+5.    Color skew: Black and white dominate sales, suggesting limited success in promoting diverse color options.
+      In the luxury aumotive industry, qaulity sustained growth depends on divasification, be it product portfolio or regional                  penetration.
+      Over reliance on few models or markets can expose the brand to economic downturns and change in customer taste.
 
 
 RECOMMENDATION
